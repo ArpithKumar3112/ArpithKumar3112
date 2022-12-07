@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning web Development
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 HYou can reach me via mail : arpithkumarba@gmail.com
+- 📫 Hey you can reach me via mail : arpithkumarba@gmail.com
 
 <!---
 ArpithKumar3112/ArpithKumar3112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
